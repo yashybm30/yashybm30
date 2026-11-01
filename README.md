@@ -32,11 +32,39 @@ I enjoy tackling complex production issues, improving application architecture, 
 - Strengthen authentication, authorization, and API security.
 - Work with both monolithic and microservices architectures.
 
-## 🚀 Featured Projects
+## Featured engineering projects
 
-Explore my [GitHub repositories](https://github.com/yashybm30?tab=repositories) for backend, DevOps, automation, and infrastructure work.
+| Project | What to explore |
+|---|---|
+| [Multi-tenant SaaS backend](https://github.com/yashybm30/nestjs-multi-tenant-saas-starter) | PostgreSQL row-level isolation, tenant authorization, RBAC, transactional audit and Redis caching |
+| [Authentication service](https://github.com/yashybm30/auth-service-jwt-oauth) | Password hashing, token rotation, replay detection and persistent revocation |
+| [Event-driven orders](https://github.com/yashybm30/event-driven-orders) | Transactional outbox, idempotency, BullMQ retries, dead-letter recovery and Kafka delivery |
+| [Kubernetes availability lab](https://github.com/yashybm30/k8s-high-availability-lab) | Replicas, probes, rolling updates, HPA, disruption budgets and failure experiments |
+| [Observability stack](https://github.com/yashybm30/nestjs-observability-stack) | Prometheus, Grafana provisioning, structured logs, OpenTelemetry and optional Sentry |
+| [CI/CD workflows](https://github.com/yashybm30/github-actions-cicd-templates) | Reusable validation, Docker builds/scanning, protected deployments and GCP federation |
 
-> Featured project links will be added here as the projects are published and verified.
+## The complete portfolio
+
+**API architecture and safe releases**
+
+- [GraphQL API engine](https://github.com/yashybm30/graphql-api-engine) ? Apollo, MongoDB, ownership checks, OAuth integration and DataLoader.
+- [Feature flag service](https://github.com/yashybm30/feature-flag-service) ? global defaults, tenant overrides, kill switches and audit history.
+- [HR platform API](https://github.com/yashybm30/hr-platform-api) ? versioned REST contracts, tenant boundaries, Prisma migrations and notification delivery.
+- [Backend media platform](https://github.com/yashybm30/backend-platform-cicd) ? scoped S3 uploads, metadata verification, CDN URL configuration and notifications.
+
+**Real-time systems and automation**
+
+- [Realtime notifications](https://github.com/yashybm30/realtime-notifications-service) ? authenticated user rooms, Redis fanout and recoverable inboxes.
+- [WebRTC calling and assistant](https://github.com/yashybm30/webrtc-calling-ai-chatbot) ? invited peer rooms, a video client, TURN credentials and an optional assistant.
+- [Puppeteer scraping framework](https://github.com/yashybm30/puppeteer-scraping-framework) ? allowlisted sources, robots checks, queues, retries, scheduling and structured results.
+
+**Libraries**
+
+- [Redis rate limiter](https://github.com/yashybm30/redis-rate-limiter) ? atomic token-bucket and sliding-window algorithms, a NestJS wrapper and a runnable benchmark.
+- [TypeScript utilities](https://github.com/yashybm30/typescript-utils-npm) ? typed retry, cancellation, pagination and environment parsing with ESM/CommonJS packaging.
+
+Start with each project's README and Actions badge for setup, actual test status, and documented limitations. External provider credentials and cloud deployment are separate from local integration verification.
+
 
 ## 📬 Let's Connect
 
