@@ -2,7 +2,7 @@
 
 **Full Stack Engineer · Tech Lead | System Design · Node.js · NestJS · TypeScript · PostgreSQL · GCP / AWS**
 
-📍 Surat, Gujarat, India | 🌐 [Portfolio](https://yashmakwana.makwanatechsolution.in) | 🔗 [LinkedIn](https://linkedin.com/in/yash-makwana-9a67a829a) | ✉️ [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
+📍 Surat, Gujarat, India | 🌐 [Portfolio](https://makwanayash.com) | 🔗 [LinkedIn](https://linkedin.com/in/yash-makwana-9a67a829a) | ✉️ [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
 
 ---
 
@@ -75,7 +75,7 @@ Each project has its own README with setup steps, test status and known limitati
 
 I'm open to tech lead, full stack and backend engineering roles: remote, or relocation to Bengaluru, Pune, Hyderabad, Mumbai or Gurugram. Notice period: 30 days (negotiable).
 
-- **Portfolio:** [yashmakwana.makwanatechsolution.in](https://yashmakwana.makwanatechsolution.in)
+- **Portfolio:** [makwanayash.com](https://makwanayash.com)
 - **Email:** [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
 - **LinkedIn:** [yash-makwana-9a67a829a](https://linkedin.com/in/yash-makwana-9a67a829a)
 - **Location:** Surat, Gujarat, India
