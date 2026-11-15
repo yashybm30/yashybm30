@@ -1,37 +1,40 @@
 # Hi, I'm Yash Makwana 👋
 
-**Backend & DevOps Engineer | Node.js, NestJS, TypeScript | GCP & Kubernetes**
+**Full Stack Developer (Backend-focused) | Node.js · NestJS · TypeScript · PostgreSQL · Cloud Systems**
 
-📍 Surat, Gujarat, India | 🔗 [LinkedIn](https://linkedin.com/in/yash-makwana-9a67a829a) | ✉️ [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
+📍 Surat, Gujarat, India | 🌐 [Portfolio](https://yashmakwana.makwanatechsolution.in) | 🔗 [LinkedIn](https://linkedin.com/in/yash-makwana-9a67a829a) | ✉️ [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
 
 ---
 
 ## About Me
 
-I'm a backend engineer with 2.8+ years of production experience building Node.js and NestJS microservices, REST and GraphQL APIs, and multi-tenant SaaS platforms on GCP and AWS.
+I've been writing code for 5+ years (since 2021) and have 2.8+ years of production experience building Node.js / NestJS microservices and REST/GraphQL APIs on PostgreSQL, GCP and AWS.
 
-I enjoy solving production problems, improving system design, and making software easier to deploy, monitor and maintain.
+- Delivered **3–4 large-scale multi-tenant enterprise SaaS projects** at **99.9% uptime**, as **tech lead owning system design on two**
+- Improved API performance by **up to 40%** through PostgreSQL indexing, query optimization and Redis caching
+- Cut deployment time by **85%** (2 hours → 15 minutes) by owning CI/CD on GitHub Actions
+- Built NestJS microservices handling **100K+ daily requests**
+
+## Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Backend Developer | Weetech Solutions, Surat | Jan 2025 – Present |
+| Full Stack Developer | Ellifi Technologies, Surat | Dec 2023 – Dec 2024 |
 
 ## Tech Stack
 
 | Area | Technologies |
 |---|---|
 | Languages | TypeScript, JavaScript (ES6+), Python |
-| Backend and APIs | Node.js, NestJS, Express.js, REST, GraphQL (Apollo Server), WebSockets, OpenAPI/Swagger |
-| Databases and caching | PostgreSQL, MongoDB, Prisma ORM, Redis |
-| Cloud and containers | GCP (GKE, Cloud Run), AWS (ECS, CloudFront), Docker, Kubernetes |
-| CI/CD and automation | GitHub Actions, CI/CD pipelines |
-| Security | RBAC, JWT, OAuth 2.0, Passport.js, rate limiting |
-| Monitoring | Sentry, Grafana, Datadog |
-| Practices | Microservices, multi-tenant design, system design, high availability, performance tuning |
-
-## What I Work On
-
-- Design and build maintainable backend APIs and services
-- Run containerized workloads on Kubernetes with replicas, HPA and disruption budgets
-- Build CI/CD pipelines that automate testing and deployment
-- Investigate production incidents and improve reliability
-- Strengthen authentication, authorization and API security
+| Backend and APIs | Node.js, NestJS, Express.js, REST, GraphQL (Apollo Server), WebSockets, OpenAPI/Swagger, API versioning |
+| Architecture | Microservices, multi-tenant SaaS, event-driven design, system design, high availability, horizontal scaling |
+| Databases and caching | PostgreSQL, Prisma ORM, MongoDB, Redis, indexing, query optimization, aggregation pipelines |
+| Queues and messaging | Bull queues, CRON jobs, Kafka (working knowledge) |
+| Cloud and DevOps | GCP (GKE, Cloud Run), AWS (ECS, CloudFront), Docker, Kubernetes (HPA, PDB), GitHub Actions, CI/CD |
+| Security | RBAC, JWT, OAuth 2.0, Passport.js, rate limiting, tenant isolation, SOC 2-aligned practices |
+| Monitoring | Sentry, Grafana, Datadog, logging, error tracking |
+| Testing and tools | Jest, Git, Postman, Puppeteer, Twilio, WebRTC |
 
 ## Featured Projects
 
@@ -68,10 +71,13 @@ Each project has its own README with setup steps, test status and known limitati
 
 ## Let's Connect
 
-I'm open to backend engineering and DevOps roles, remote or in Bengaluru and Pune.
+I'm open to full stack and backend engineering roles: remote, or relocation to Bengaluru, Pune, Hyderabad, Mumbai or Gurugram. Notice period: 30 days (negotiable).
 
+- **Portfolio:** [yashmakwana.makwanatechsolution.in](https://yashmakwana.makwanatechsolution.in)
 - **Email:** [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
 - **LinkedIn:** [yash-makwana-9a67a829a](https://linkedin.com/in/yash-makwana-9a67a829a)
 - **Location:** Surat, Gujarat, India
+
+🏆 State-Level Hackathon Winner (2022), Govt. of Gujarat Innovation Cell with KCG · 🎓 B.Sc. Computer Science and Technology, VNSGU (2021–2024)
 
 *Always learning. Always building.*
