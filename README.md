@@ -1,6 +1,6 @@
 # Hi, I'm Yash Makwana 👋
 
-**Full Stack Developer (Backend-focused) | Node.js · NestJS · TypeScript · PostgreSQL · Cloud Systems**
+**Full Stack Engineer · Tech Lead | System Design · Node.js · NestJS · TypeScript · PostgreSQL · GCP / AWS**
 
 📍 Surat, Gujarat, India | 🌐 [Portfolio](https://yashmakwana.makwanatechsolution.in) | 🔗 [LinkedIn](https://linkedin.com/in/yash-makwana-9a67a829a) | ✉️ [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
 
@@ -8,9 +8,11 @@
 
 ## About Me
 
-I've been writing code for 5+ years (since 2021) and have 2.8+ years of production experience building Node.js / NestJS microservices and REST/GraphQL APIs on PostgreSQL, GCP and AWS.
+I'm a full stack engineer and tech lead with 5+ years of hands-on engineering (since 2021) and 2.8+ years shipping production systems. I own architecture end to end: system design, task breakdown, code reviews, CI/CD and production reliability.
 
-- Delivered **3–4 large-scale multi-tenant enterprise SaaS projects** at **99.9% uptime**, as **tech lead owning system design on two**
+- **Tech lead on two enterprise SaaS projects**, owning system design, architecture, code reviews and delivery
+- Delivered **3–4 large-scale multi-tenant enterprise SaaS platforms** on GCP (GKE) and PostgreSQL at **99.9% uptime**
+- **Mentor junior engineers** on TypeScript and API design; introduced feature toggles and kill switches for safe rollouts
 - Improved API performance by **up to 40%** through PostgreSQL indexing, query optimization and Redis caching
 - Cut deployment time by **85%** (2 hours → 15 minutes) by owning CI/CD on GitHub Actions
 - Built NestJS microservices handling **100K+ daily requests**
@@ -19,7 +21,7 @@ I've been writing code for 5+ years (since 2021) and have 2.8+ years of producti
 
 | Role | Company | Period |
 |---|---|---|
-| Backend Developer | Weetech Solutions, Surat | Jan 2025 – Present |
+| Backend Developer · Tech Lead (2 projects) | Weetech Solutions, Surat | Jan 2025 – Present |
 | Full Stack Developer | Ellifi Technologies, Surat | Dec 2023 – Dec 2024 |
 
 ## Tech Stack
@@ -71,7 +73,7 @@ Each project has its own README with setup steps, test status and known limitati
 
 ## Let's Connect
 
-I'm open to full stack and backend engineering roles: remote, or relocation to Bengaluru, Pune, Hyderabad, Mumbai or Gurugram. Notice period: 30 days (negotiable).
+I'm open to tech lead, senior full stack and backend engineering roles: remote, or relocation to Bengaluru, Pune, Hyderabad, Mumbai or Gurugram. Notice period: 30 days (negotiable).
 
 - **Portfolio:** [yashmakwana.makwanatechsolution.in](https://yashmakwana.makwanatechsolution.in)
 - **Email:** [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
