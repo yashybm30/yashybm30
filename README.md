@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a full stack engineer and tech lead with 5+ years of hands-on engineering (since 2021) and 2.8+ years shipping production systems. I own architecture end to end: system design, task breakdown, code reviews, CI/CD and production reliability.
+I'm a backend developer and tech lead with 3+ years of professional experience shipping production systems. I own architecture end to end: system design, task breakdown, code reviews, CI/CD and production reliability.
 
 - **Tech lead on two enterprise SaaS projects**, owning system design, architecture, code reviews and delivery
 - Delivered **3–4 large-scale multi-tenant enterprise SaaS platforms** on GCP (GKE) and PostgreSQL at **99.9% uptime**
