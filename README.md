@@ -73,7 +73,7 @@ Each project has its own README with setup steps, test status and known limitati
 
 ## Let's Connect
 
-I'm open to tech lead, senior full stack and backend engineering roles: remote, or relocation to Bengaluru, Pune, Hyderabad, Mumbai or Gurugram. Notice period: 30 days (negotiable).
+I'm open to tech lead, full stack and backend engineering roles: remote, or relocation to Bengaluru, Pune, Hyderabad, Mumbai or Gurugram. Notice period: 30 days (negotiable).
 
 - **Portfolio:** [yashmakwana.makwanatechsolution.in](https://yashmakwana.makwanatechsolution.in)
 - **Email:** [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
