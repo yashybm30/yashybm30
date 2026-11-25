@@ -1,27 +1,28 @@
 # Hi, I'm Yash Makwana 👋
 
-**Full Stack Engineer · Tech Lead | System Design · Node.js · NestJS · TypeScript · PostgreSQL · GCP / AWS**
+**Backend Software Engineer | Node.js · NestJS · TypeScript · PostgreSQL · Kubernetes**
 
 📍 Surat, Gujarat, India | 🌐 [Portfolio](https://makwanayash.com) | 🔗 [LinkedIn](https://linkedin.com/in/yash-makwana-9a67a829a) | ✉️ [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
+
+📄 [View résumé (PDF)](./Yash-Makwana-Resume.pdf)
 
 ---
 
 ## About Me
 
-I'm a backend developer and tech lead with 3+ years of professional experience shipping production systems. I own architecture end to end: system design, task breakdown, code reviews, CI/CD and production reliability.
+I build and operate multi-tenant SaaS applications with Node.js, NestJS, TypeScript and PostgreSQL. I lead backend architecture and delivery, own production operations and mentor 5–6 developers and interns.
 
-- **Tech lead on two enterprise SaaS projects**, owning system design, architecture, code reviews and delivery
-- Delivered **3–4 large-scale multi-tenant enterprise SaaS platforms** on GCP (GKE) and PostgreSQL at **99.9% uptime**
-- **Mentor junior engineers** on TypeScript and API design; introduced feature toggles and kill switches for safe rollouts
-- Improved API performance by **up to 40%** through PostgreSQL indexing, query optimization and Redis caching
-- Cut deployment time by **85%** (2 hours → 15 minutes) by owning CI/CD on GitHub Actions
-- Built NestJS microservices handling **100K+ daily requests**
+- Designed multi-tenant SaaS platforms on GKE and PostgreSQL with database- and application-level tenant isolation and **99.9% uptime**.
+- Built NestJS microservices handling **100,000+ requests per day** using Redis caching, rate limiting and database query optimization.
+- Improved API performance by **40%** through PostgreSQL indexing and query optimization.
+- Cut deployment time from **120 to 15 minutes** with GitHub Actions and introduced feature flags and kill switches for controlled releases.
+- Automated workflows and implemented RBAC, reducing manual processing time by **60%**.
 
 ## Experience
 
 | Role | Company | Period |
 |---|---|---|
-| Backend Developer · Tech Lead (2 projects) | Weetech Solutions, Surat | Jan 2025 – Present |
+| Backend Developer | Weetech Solutions, Surat | Jan 2025 – Present |
 | Full Stack Developer | Ellifi Technologies, Surat | Dec 2023 – Dec 2024 |
 
 ## Tech Stack
@@ -37,6 +38,15 @@ I'm a backend developer and tech lead with 3+ years of professional experience s
 | Security | RBAC, JWT, OAuth 2.0, Passport.js, rate limiting, tenant isolation, SOC 2-aligned practices |
 | Monitoring | Sentry, Grafana, Datadog, logging, error tracking |
 | Testing and tools | Jest, Git, Postman, Puppeteer, Twilio, WebRTC |
+
+## Selected Work
+
+| Project | Focus |
+|---|---|
+| Home Service Checklist | Multi-tenant NestJS platform with PostgreSQL, MongoDB, Redis and tenant-specific scheduled jobs on GKE |
+| ExecConnect | Multi-tenant HR platform with versioned REST APIs, PostgreSQL and Twilio integration |
+| DreamStride | PostgreSQL-backed APIs, role-based access control, notifications and CDN media delivery |
+| HiSurat | Apollo GraphQL APIs with MongoDB, OAuth, rate limiting and an administration panel |
 
 ## Featured Projects
 
@@ -73,7 +83,7 @@ Each project has its own README with setup steps, test status and known limitati
 
 ## Let's Connect
 
-I'm open to tech lead, full stack and backend engineering roles: remote, or relocation to Bengaluru, Pune, Hyderabad, Mumbai or Gurugram. Notice period: 30 days (negotiable).
+I'm open to remote work or relocation to Bengaluru, Pune, Hyderabad, Mumbai, Gurugram, Ahmedabad or Gandhinagar. My notice period is 30 days (negotiable).
 
 - **Portfolio:** [makwanayash.com](https://makwanayash.com)
 - **Email:** [yash.makwana.b@gmail.com](mailto:yash.makwana.b@gmail.com)
